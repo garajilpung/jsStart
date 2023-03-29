@@ -1,0 +1,24 @@
+{
+  "name": "jsstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "parcel ./index.html",
+    "build" : "parcel build ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garajilpung/jsstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garajilpung/jsstart/issues"
+  },
+  "homepage": "https://github.com/garajilpung/jsstart#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
